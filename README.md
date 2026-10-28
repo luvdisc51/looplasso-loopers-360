@@ -6,7 +6,7 @@ The VR / 360 version of Looplasso Loopers, built on WebXR. Loopers float all aro
 
 - Works in a headset browser (for example Meta Browser on Quest), including passthrough on supported headsets.
 - Also plays on a phone or desktop screen: drag to look, or use motion sensors, and draw with your finger.
-- Befriend all 51 Loopers to fill your Looperdex.
+- Befriend all 117 Loopers to fill your Looperdex.
 
 ## Running it
 
