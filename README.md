@@ -1,5 +1,7 @@
 # Looplasso Loopers 360
 
+> **In development (indev).** This game is a work in progress. Things will change and break.
+
 The VR / 360 version of Looplasso Loopers, built on WebXR. Loopers float all around you. Hold the trigger to draw your line, then loop it around a Looper to befriend it. Unofficial fan game, not affiliated with Loop Labs.
 
 - Works in a headset browser (for example Meta Browser on Quest), including passthrough on supported headsets.
